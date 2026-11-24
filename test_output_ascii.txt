@@ -1,0 +1,13 @@
+File face_01.jpg: detected 1 faces.
+  Face 0: box=[185, 151, 310, 327], confidence=0.9072
+File face_02.jpg: detected 1 faces.
+  Face 0: box=[221, 120, 289, 351], confidence=0.9238
+File face_03.jpg: detected 1 faces.
+  Face 0: box=[242, 135, 235, 331], confidence=0.9404
+File face_04.jpg: detected 3 faces.
+  Face 0: box=[264, 208, 187, 263], confidence=0.9376
+  Face 1: box=[207, 364, 21, 27], confidence=0.8446
+  Face 2: box=[105, 362, 21, 27], confidence=0.8074
+File face_05.jpg: detected 2 faces.
+  Face 0: box=[258, 189, 192, 262], confidence=0.9381
+  Face 1: box=[201, 365, 22, 27], confidence=0.8175

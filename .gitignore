@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+env/
+ENV/
+
+# Databases
+*.db
+backend/surveillance.db
+
+# Models & Datasets
+backend/models/*.onnx
+backend/models/*.joblib
+backend/datasets/
+backend/uploads/
+
+# Node.js / React
+node_modules/
+dist/
+dist-ssr
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.lighthouserc
+
+# OS specific files
+.DS_Store
+Thumbs.db
